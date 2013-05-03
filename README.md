@@ -1,3 +1,9 @@
+# Web Book Boilerplate (WBB) Demo
+This is a fork from [Web Book Boilerplate](https://github.com/WebBooks/wbb). I made small changes in Gruntfile.js file to make it run on Windows Dos.
+Demos are in branchs start with "demo-". 
+- Branch demo-progit uses WBB to compile Scott Chacon's [Pro Git book](https://github.com/progit/progit).
+- Branch demo-
+
 **Attention:**
 
 Version 0.3.0 requires <code>grunt ~0.4.0</code>
