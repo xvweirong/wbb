@@ -132,11 +132,11 @@ module.exports = function (grunt) {
       },
 
       make_epub_dir: {
-        command: 'mkdir -p builds && mkdir -p builds/epub'
+        command: 'mkdir "builds\\epub"'
       },
 
       make_rtf_dir: {
-        command: 'mkdir -p builds && mkdir -p builds/rtf',
+        command: 'mkdir "builds\\rtf"',
       },
 
       make_rtf: {
@@ -144,7 +144,7 @@ module.exports = function (grunt) {
       },
 
       make_mobi_dir: {
-        command: 'mkdir -p builds && mkdir -p builds/mobi'
+        command: 'mkdir "builds\\mobi"'
       },
 
       make_mobi: {

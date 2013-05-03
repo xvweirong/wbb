@@ -1,2 +1,9 @@
-chapters/chapter_1.md
-chapters/chapter_2.md
+chapters/01-introduction/01-chapter1.markdown
+chapters/02-git-basics/01-chapter2.markdown
+chapters/03-git-branching/01-chapter3.markdown
+chapters/04-git-server/01-chapter4.markdown
+chapters/05-distributed-git/01-chapter5.markdown
+chapters/06-git-tools/01-chapter6.markdown
+chapters/07-customizing-git/01-chapter7.markdown
+chapters/08-git-and-other-scms/01-chapter8.markdown
+chapters/09-git-internals/01-chapter9.markdown
